@@ -1,5 +1,5 @@
 epic_tragedy = {
-  :montague => {,
+  :montague => {
     :matriarch => {},
     :hero => {},
     :hero_friends => []
